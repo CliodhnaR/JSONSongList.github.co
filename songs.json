@@ -1,0 +1,73 @@
+[{
+		"title": "She Dances",
+		"artist": "Billie Marten",
+		"year": 2019,
+		"genres": ["Acoustic"]
+	},
+	{
+		"title": "yin to yang",
+		"artist": "runo plum",
+		"year": 2021,
+		"genres": ["Indie"]
+	},
+	{
+		"title": "Forget About",
+		"artist": "Sibylle Baier",
+		"year": 2006,
+		"genres": ["Folk", "Indie"]
+	},
+	{
+		"title": "Love Thing",
+		"artist": "Brat Mobile",
+		"year": 1993,
+		"genres": ["Riot Grrrl", "Rock", "Alternative"]
+	},
+	{
+		"title": "Nowhere",
+		"artist": "pinkpirate",
+		"year": 2021,
+		"genres": ["Indie", "Pop"]
+	},
+	{
+		"title": "dirty dancer",
+		"artist": "Orion Sun",
+		"year": 2022,
+		"genres": ["R'n'B"]
+	},
+	{
+		"title": "Down the Line",
+		"artist": "Remi Wolf",
+		"year": 2022,
+		"genres": ["Indie", "Pop"]
+	},
+	{
+		"title": "Lagoon",
+		"artist": "Dora Jar",
+		"year": 2022,
+		"genres": ["Indie", "R'n'B"]
+	},
+	{
+		"title": "Bumblebee",
+		"artist": "Dora Jar",
+		"year": 2022,
+		"genres": ["Indie", "Pop"]
+	},
+	{
+		"title": "I Like It",
+		"artist": "The Marias",
+		"year": 2017,
+		"genres": ["Indie"]
+	},
+	{
+		"title": "Heart-Shaped Box",
+		"artist": "Nirvana",
+		"year": 1993,
+		"genres": ["Rock", "Alternative"]
+	},
+	{
+		"title": "Brand New Key",
+		"artist": "Melanie",
+		"year": 1971,
+		"genres": ["Folk", "Pop"]
+	}
+]
